@@ -16,9 +16,12 @@
   }
 }
 
-/* body{
-  background-image: url('https://unsplash.com/pt-br/fotografias/ferramenta-de-madeira-marrom-na-superficie-branca-veNb0DDegzE?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash');
-} */
+
+
+body{
+  /* background-color: ; */
+  /* background-image: url('https://unsplash.com/pt-br/fotografias/ferramenta-de-madeira-marrom-na-superficie-branca-veNb0DDegzE?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash'); */
+}
 
 .image {
   background-image: url('https://unsplash.com/pt-br/fotografias/ferramenta-de-madeira-marrom-na-superficie-branca-veNb0DDegzE?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash');
